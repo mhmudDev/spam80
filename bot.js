@@ -117,7 +117,7 @@ client5.on('message', message => {
 
   setInterval(() => {
 
-client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 
 },2000);
 
@@ -129,7 +129,7 @@ client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random()
 
   setInterval(() => {
 
-client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 
 },2000);
 
@@ -141,7 +141,7 @@ client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random()
 
   setInterval(() => {
 
-client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 
 },2000);
 
@@ -154,7 +154,7 @@ client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random()
 
   setInterval(() => {
 
-client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 
 },2000);
 
@@ -166,7 +166,7 @@ client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random()
 
   setInterval(() => {
 
-client.channels.get("506722849600569346").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
+client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random() *ReBeL.length)]}`);//لا تنسى تحط أيدي الروم
 
 },2000);
 
