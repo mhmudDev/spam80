@@ -173,8 +173,8 @@ client.channels.get("513080230630522910").send(`${ReBeL[Math.floor(Math.random()
 });
 
 
-client.login(process.env.BOT_TOKEN);
-client2.login(process.env.BOT_TOKEN2);// لا تغير فيها شيء
-client3.login(process.env.BOT_TOKEN3);// لا تغير فيها شيء
-client4.login(process.env.BOT_TOKEN4);// لا تغير فيها شيء
-client5.login(process.env.BOT_TOKEN5);// لا تغير فيها شيء
+client.login(process.env.TOKEN);
+client2.login(process.env.TOKEN2);// لا تغير فيها شيء
+client3.login(process.env.TOKEN3);// لا تغير فيها شيء
+client4.login(process.env.TOKEN4);// لا تغير فيها شيء
+client5.login(process.env.TOKEN5);// لا تغير فيها شيء
