@@ -4,7 +4,6 @@ const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
-const client2 = new Discord.Client();
 
 client.on('ready', () => {
    console.log(`----------------`);
