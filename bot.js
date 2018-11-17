@@ -33,7 +33,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@334062602554572800>')
     }
 });
 
@@ -49,6 +49,12 @@ client2.on('message', message => {
     }
 });
 
+client2.on('message', message => {
+    if(message.content === '-ريب'){
+        message.channel.send('#rep <@334062602554572800>')
+    }
+});
+
 client3.on('message', message => {
     if(message.content === '-راتب'){
         message.channel.send('#daily')
@@ -63,7 +69,7 @@ client3.on('message', message => {
 
 client3.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@334062602554572800>')
     }
 });
 
@@ -81,7 +87,7 @@ client4.on('message', message => {
 
 client4.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@334062602554572800>')
     }
 });
 
@@ -99,7 +105,7 @@ client5.on('message', message => {
 
 client5.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@334062602554572800>')
     }
 });
 
